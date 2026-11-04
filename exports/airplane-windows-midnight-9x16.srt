@@ -1,0 +1,239 @@
+1
+00:00:00,120 --> 00:00:00,995
+Why do airplane
+
+2
+00:00:01,000 --> 00:00:02,075
+windows have rounded
+
+3
+00:00:02,080 --> 00:00:03,475
+corners? It isn't
+
+4
+00:00:03,480 --> 00:00:04,275
+just for looks.
+
+5
+00:00:04,640 --> 00:00:05,515
+Up high, the
+
+6
+00:00:05,520 --> 00:00:06,515
+air outside is
+
+7
+00:00:06,600 --> 00:00:08,115
+thin. Inside, the
+
+8
+00:00:08,120 --> 00:00:09,595
+cabin stays pressurized
+
+9
+00:00:09,600 --> 00:00:10,555
+so passengers can
+
+10
+00:00:10,560 --> 00:00:11,635
+breathe. That difference
+
+11
+00:00:12,000 --> 00:00:13,155
+pushes outward against
+
+12
+00:00:13,200 --> 00:00:14,275
+the aircraft's metal
+
+13
+00:00:14,280 --> 00:00:15,675
+skin. Now imagine
+
+14
+00:00:15,680 --> 00:00:16,515
+cutting a square
+
+15
+00:00:16,520 --> 00:00:17,275
+window into that
+
+16
+00:00:17,280 --> 00:00:18,235
+metal. At its
+
+17
+00:00:18,240 --> 00:00:19,635
+sharp corners, stress
+
+18
+00:00:19,840 --> 00:00:21,435
+becomes concentrated. Every
+
+19
+00:00:21,680 --> 00:00:22,715
+flight strains those
+
+20
+00:00:22,800 --> 00:00:23,955
+spots again. The
+
+21
+00:00:23,960 --> 00:00:25,195
+pressure difference grows
+
+22
+00:00:25,200 --> 00:00:25,755
+as the plane
+
+23
+00:00:25,800 --> 00:00:27,235
+climbs. It shrinks
+
+24
+00:00:27,240 --> 00:00:28,195
+again during descent.
+
+25
+00:00:28,520 --> 00:00:29,515
+Repeat that cycle
+
+26
+00:00:29,520 --> 00:00:30,475
+often enough, and
+
+27
+00:00:30,560 --> 00:00:31,835
+tiny fatigue cracks
+
+28
+00:00:31,840 --> 00:00:32,915
+can grow. At
+
+29
+00:00:32,960 --> 00:00:34,115
+first, those cracks
+
+30
+00:00:34,120 --> 00:00:34,755
+may be almost
+
+31
+00:00:34,880 --> 00:00:36,675
+invisible. Engineers learned
+
+32
+00:00:36,760 --> 00:00:37,475
+this lesson from
+
+33
+00:00:37,480 --> 00:00:38,195
+the de Havilland
+
+34
+00:00:38,240 --> 00:00:40,075
+Comet. In 1954,
+
+35
+00:00:40,440 --> 00:00:40,955
+two of these
+
+36
+00:00:41,080 --> 00:00:42,555
+pioneering jetliners broke
+
+37
+00:00:42,680 --> 00:00:43,635
+apart in flight.
+
+38
+00:00:44,080 --> 00:00:45,235
+Investigators traced the
+
+39
+00:00:45,240 --> 00:00:46,195
+failures to metal
+
+40
+00:00:46,200 --> 00:00:47,395
+fatigue in pressurized
+
+41
+00:00:47,400 --> 00:00:49,755
+fuselages. Square-shaped openings
+
+42
+00:00:49,760 --> 00:00:50,795
+made certain areas
+
+43
+00:00:51,000 --> 00:00:52,715
+especially vulnerable. Tests
+
+44
+00:00:52,720 --> 00:00:53,875
+revealed how repeated
+
+45
+00:00:53,880 --> 00:00:55,115
+pressure cycles weakened
+
+46
+00:00:55,120 --> 00:00:56,635
+the structure. Engineers
+
+47
+00:00:56,680 --> 00:00:57,835
+strengthened aircraft and
+
+48
+00:00:57,960 --> 00:00:59,115
+improved window shapes.
+
+49
+00:00:59,400 --> 00:01:00,395
+Rounded corners let
+
+50
+00:01:00,520 --> 00:01:01,315
+stress spread more
+
+51
+00:01:01,400 --> 00:01:02,395
+smoothly around each
+
+52
+00:01:02,400 --> 00:01:03,675
+opening. That doesn't
+
+53
+00:01:03,680 --> 00:01:04,395
+make an airplane
+
+54
+00:01:04,400 --> 00:01:05,915
+indestructible, but it
+
+55
+00:01:05,920 --> 00:01:07,395
+removes an unnecessary
+
+56
+00:01:07,400 --> 00:01:08,555
+weak point. So
+
+57
+00:01:08,720 --> 00:01:09,635
+what other tiny
+
+58
+00:01:09,640 --> 00:01:10,795
+detail is quietly
+
+59
+00:01:10,800 --> 00:01:12,075
+protecting you whenever
+
+60
+00:01:12,080 --> 00:01:12,475
+you fly?
