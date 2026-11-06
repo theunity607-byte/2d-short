@@ -1,0 +1,902 @@
+[
+  {
+    "start": 0,
+    "end": 5,
+    "words": "One pig almost started a war between America and Britain.",
+    "id": 0,
+    "label": "ONE PIG",
+    "chapter": 0,
+    "visual": "pig illustration; chalk-write ONE PIG"
+  },
+  {
+    "start": 4,
+    "end": 7,
+    "words": "Not because it attacked someone important.",
+    "id": 1,
+    "label": "NOT AN ATTACK",
+    "chapter": 0,
+    "visual": "pig illustration; chalk-write NOT AN ATTACK"
+  },
+  {
+    "start": 6,
+    "end": 9,
+    "words": "Not because it carried secret information.",
+    "id": 2,
+    "label": "NO SECRETS",
+    "chapter": 0,
+    "visual": "pig illustration; chalk-write NO SECRETS"
+  },
+  {
+    "start": 9,
+    "end": 12,
+    "words": "It simply ate the wrong potatoes.",
+    "id": 3,
+    "label": "POTATOES",
+    "chapter": 0,
+    "visual": "pig illustration; chalk-write POTATOES"
+  },
+  {
+    "start": 11,
+    "end": 15,
+    "words": "And within weeks, American soldiers were landing on an island,",
+    "id": 4,
+    "label": "SOLDIERS LAND",
+    "chapter": 0,
+    "visual": "pig illustration; chalk-write SOLDIERS LAND"
+  },
+  {
+    "start": 15,
+    "end": 18,
+    "words": "British warships were gathering offshore,",
+    "id": 5,
+    "label": "WARSHIPS",
+    "chapter": 0,
+    "visual": "pig illustration; chalk-write WARSHIPS"
+  },
+  {
+    "start": 17,
+    "end": 21,
+    "words": "and two powerful nations were preparing for a possible battle.",
+    "id": 6,
+    "label": "TWO NATIONS",
+    "chapter": 0,
+    "visual": "pig illustration; chalk-write TWO NATIONS"
+  },
+  {
+    "start": 21,
+    "end": 24,
+    "words": "All because one farmer had lost his patience.",
+    "id": 7,
+    "label": "ONE ANGRY FARMER",
+    "chapter": 0,
+    "visual": "pig illustration; chalk-write ONE ANGRY FARMER"
+  },
+  {
+    "start": 24,
+    "end": 27,
+    "words": "This is the true story of the Pig War.",
+    "id": 8,
+    "label": "THE PIG WAR",
+    "chapter": 0,
+    "visual": "pig illustration; chalk-write THE PIG WAR"
+  },
+  {
+    "start": 27,
+    "end": 30,
+    "words": "The island nobody could agree on.",
+    "id": 9,
+    "label": "WHO OWNS THE ISLAND?",
+    "chapter": 1,
+    "visual": "map illustration; chalk-write WHO OWNS THE ISLAND?"
+  },
+  {
+    "start": 30,
+    "end": 32,
+    "words": "To understand how this happened,",
+    "id": 10,
+    "label": "A BORDER DISPUTE",
+    "chapter": 1,
+    "visual": "map illustration; chalk-write A BORDER DISPUTE"
+  },
+  {
+    "start": 31,
+    "end": 34,
+    "words": "we need to go back to 1846.",
+    "id": 11,
+    "label": "1846",
+    "chapter": 1,
+    "visual": "map illustration; chalk-write 1846"
+  },
+  {
+    "start": 34,
+    "end": 39,
+    "words": "America and Britain signed a treaty establishing much of their border in the Pacific Northwest.",
+    "id": 12,
+    "label": "A TREATY",
+    "chapter": 1,
+    "visual": "map illustration; chalk-write A TREATY"
+  },
+  {
+    "start": 39,
+    "end": 41,
+    "words": "But there was one problem.",
+    "id": 13,
+    "label": "ONE PROBLEM",
+    "chapter": 1,
+    "visual": "map illustration; chalk-write ONE PROBLEM"
+  },
+  {
+    "start": 40,
+    "end": 46,
+    "words": "The treaty said the border should pass through the channel between the mainland and Vancouver Island.",
+    "id": 14,
+    "label": "WHICH CHANNEL?",
+    "chapter": 1,
+    "visual": "map illustration; chalk-write WHICH CHANNEL?"
+  },
+  {
+    "start": 45,
+    "end": 48,
+    "words": "Except, there were two possible channels.",
+    "id": 15,
+    "label": "TWO CHANNELS",
+    "chapter": 1,
+    "visual": "map illustration; chalk-write TWO CHANNELS"
+  },
+  {
+    "start": 48,
+    "end": 52,
+    "words": "Choose the western channel, and the San Juan Islands belonged to America.",
+    "id": 16,
+    "label": "WEST: AMERICA",
+    "chapter": 1,
+    "visual": "map illustration; chalk-write WEST: AMERICA"
+  },
+  {
+    "start": 52,
+    "end": 55,
+    "words": "Choose the eastern channel, and they belonged to Britain.",
+    "id": 17,
+    "label": "EAST: BRITAIN",
+    "chapter": 1,
+    "visual": "map illustration; chalk-write EAST: BRITAIN"
+  },
+  {
+    "start": 54,
+    "end": 59,
+    "words": "Naturally, both countries chose the version that gave them the islands.",
+    "id": 18,
+    "label": "COMPETING CLAIMS",
+    "chapter": 1,
+    "visual": "map illustration; chalk-write COMPETING CLAIMS"
+  },
+  {
+    "start": 58,
+    "end": 61,
+    "words": "And neither wanted to back down.",
+    "id": 19,
+    "label": "NEITHER BACKS DOWN",
+    "chapter": 1,
+    "visual": "map illustration; chalk-write NEITHER BACKS DOWN"
+  },
+  {
+    "start": 60,
+    "end": 63,
+    "words": "The farmer and the pig.",
+    "id": 20,
+    "label": "THE FARMER + THE PIG",
+    "chapter": 2,
+    "visual": "farm illustration; chalk-write THE FARMER + THE PIG"
+  },
+  {
+    "start": 62,
+    "end": 69,
+    "words": "By 1859, the British Hudson's Bay Company was operating a large sheep farm on San Juan Island.",
+    "id": 21,
+    "label": "1859: SHEEP FARM",
+    "chapter": 2,
+    "visual": "farm illustration; chalk-write 1859: SHEEP FARM"
+  },
+  {
+    "start": 69,
+    "end": 71,
+    "words": "American settlers were also arriving,",
+    "id": 22,
+    "label": "AMERICAN SETTLERS",
+    "chapter": 2,
+    "visual": "farm illustration; chalk-write AMERICAN SETTLERS"
+  },
+  {
+    "start": 71,
+    "end": 73,
+    "words": "building houses and planting crops.",
+    "id": 23,
+    "label": "HOUSES + CROPS",
+    "chapter": 2,
+    "visual": "farm illustration; chalk-write HOUSES + CROPS"
+  },
+  {
+    "start": 73,
+    "end": 76,
+    "words": "Both sides believed the other was trespassing.",
+    "id": 24,
+    "label": "TRESPASSING?",
+    "chapter": 2,
+    "visual": "farm illustration; chalk-write TRESPASSING?"
+  },
+  {
+    "start": 76,
+    "end": 80,
+    "words": "Then came June 15th, 1859.",
+    "id": 25,
+    "label": "JUNE 15, 1859",
+    "chapter": 2,
+    "visual": "farm illustration; chalk-write JUNE 15, 1859"
+  },
+  {
+    "start": 79,
+    "end": 85,
+    "words": "An American farmer named Lyman Cutlar discovered a pig digging through his potato patch.",
+    "id": 26,
+    "label": "LYMAN CUTLAR",
+    "chapter": 2,
+    "visual": "farm illustration; chalk-write LYMAN CUTLAR"
+  },
+  {
+    "start": 84,
+    "end": 87,
+    "words": "And this wasn't the pig's first visit.",
+    "id": 27,
+    "label": "NOT ITS FIRST VISIT",
+    "chapter": 2,
+    "visual": "farm illustration; chalk-write NOT ITS FIRST VISIT"
+  },
+  {
+    "start": 86,
+    "end": 89,
+    "words": "The animal belonged to Charles Griffin,",
+    "id": 28,
+    "label": "CHARLES GRIFFIN",
+    "chapter": 2,
+    "visual": "farm illustration; chalk-write CHARLES GRIFFIN"
+  },
+  {
+    "start": 88,
+    "end": 91,
+    "words": "a British company farm manager.",
+    "id": 29,
+    "label": "BRITISH FARM MANAGER",
+    "chapter": 2,
+    "visual": "farm illustration; chalk-write BRITISH FARM MANAGER"
+  },
+  {
+    "start": 90,
+    "end": 93,
+    "words": "Cutlar had finally had enough.",
+    "id": 30,
+    "label": "ENOUGH!",
+    "chapter": 2,
+    "visual": "farm illustration; chalk-write ENOUGH!"
+  },
+  {
+    "start": 93,
+    "end": 95,
+    "words": "In a moment of anger,",
+    "id": 31,
+    "label": "ANGER",
+    "chapter": 2,
+    "visual": "farm illustration; chalk-write ANGER"
+  },
+  {
+    "start": 94,
+    "end": 96,
+    "words": "he shot the pig.",
+    "id": 32,
+    "label": "THE PIG IS SHOT",
+    "chapter": 2,
+    "visual": "farm illustration; chalk-write THE PIG IS SHOT"
+  },
+  {
+    "start": 95,
+    "end": 99,
+    "words": "But he had no idea what he had just started.",
+    "id": 33,
+    "label": "AN UNEXPECTED CRISIS",
+    "chapter": 2,
+    "visual": "farm illustration; chalk-write AN UNEXPECTED CRISIS"
+  },
+  {
+    "start": 98,
+    "end": 101,
+    "words": "A hundred dollar pig.",
+    "id": 34,
+    "label": "A $100 PIG?",
+    "chapter": 3,
+    "visual": "money illustration; chalk-write A $100 PIG?"
+  },
+  {
+    "start": 100,
+    "end": 103,
+    "words": "Cutlar soon regretted his decision.",
+    "id": 35,
+    "label": "REGRET",
+    "chapter": 3,
+    "visual": "money illustration; chalk-write REGRET"
+  },
+  {
+    "start": 103,
+    "end": 107,
+    "words": "He approached Griffin and offered to compensate him for the animal.",
+    "id": 36,
+    "label": "COMPENSATION",
+    "chapter": 3,
+    "visual": "money illustration; chalk-write COMPENSATION"
+  },
+  {
+    "start": 106,
+    "end": 108,
+    "words": "But there was a disagreement.",
+    "id": 37,
+    "label": "A DISAGREEMENT",
+    "chapter": 3,
+    "visual": "money illustration; chalk-write A DISAGREEMENT"
+  },
+  {
+    "start": 108,
+    "end": 112,
+    "words": "Cutlar believed the pig was worth no more than ten dollars.",
+    "id": 38,
+    "label": "$10",
+    "chapter": 3,
+    "visual": "money illustration; chalk-write $10"
+  },
+  {
+    "start": 111,
+    "end": 114,
+    "words": "Griffin demanded one hundred dollars,",
+    "id": 39,
+    "label": "$100",
+    "chapter": 3,
+    "visual": "money illustration; chalk-write $100"
+  },
+  {
+    "start": 113,
+    "end": 116,
+    "words": "ten times as much.",
+    "id": 40,
+    "label": "10 TIMES AS MUCH",
+    "chapter": 3,
+    "visual": "money illustration; chalk-write 10 TIMES AS MUCH"
+  },
+  {
+    "start": 115,
+    "end": 117,
+    "words": "Cutlar refused.",
+    "id": 41,
+    "label": "REFUSAL",
+    "chapter": 3,
+    "visual": "money illustration; chalk-write REFUSAL"
+  },
+  {
+    "start": 117,
+    "end": 120,
+    "words": "Then British officials threatened to arrest him.",
+    "id": 42,
+    "label": "THREAT OF ARREST",
+    "chapter": 3,
+    "visual": "money illustration; chalk-write THREAT OF ARREST"
+  },
+  {
+    "start": 119,
+    "end": 124,
+    "words": "But Cutlar insisted he was an American citizen living on American soil.",
+    "id": 43,
+    "label": "AMERICAN SOIL?",
+    "chapter": 3,
+    "visual": "money illustration; chalk-write AMERICAN SOIL?"
+  },
+  {
+    "start": 124,
+    "end": 127,
+    "words": "The British insisted the island belonged to",
+    "id": 44,
+    "label": "A BRITISH CLAIM",
+    "chapter": 3,
+    "visual": "money illustration; chalk-write A BRITISH CLAIM"
+  },
+  {
+    "start": 127,
+    "end": 128,
+    "words": "Britain.",
+    "id": 45,
+    "label": "BRITAIN",
+    "chapter": 3,
+    "visual": "money illustration; chalk-write BRITAIN"
+  },
+  {
+    "start": 127,
+    "end": 130,
+    "words": "And suddenly, a disagreement about one pig",
+    "id": 46,
+    "label": "ONE PIG",
+    "chapter": 3,
+    "visual": "money illustration; chalk-write ONE PIG"
+  },
+  {
+    "start": 129,
+    "end": 132,
+    "words": "had become an international dispute.",
+    "id": 47,
+    "label": "INTERNATIONAL DISPUTE",
+    "chapter": 3,
+    "visual": "money illustration; chalk-write INTERNATIONAL DISPUTE"
+  },
+  {
+    "start": 132,
+    "end": 134,
+    "words": "The warships arrive.",
+    "id": 48,
+    "label": "THE WARSHIPS ARRIVE",
+    "chapter": 4,
+    "visual": "military illustration; chalk-write THE WARSHIPS ARRIVE"
+  },
+  {
+    "start": 134,
+    "end": 138,
+    "words": "Worried American settlers asked the United States Army for protection.",
+    "id": 49,
+    "label": "PROTECTION",
+    "chapter": 4,
+    "visual": "military illustration; chalk-write PROTECTION"
+  },
+  {
+    "start": 138,
+    "end": 142,
+    "words": "General William Harney responded by sending soldiers to the island.",
+    "id": 50,
+    "label": "GENERAL HARNEY",
+    "chapter": 4,
+    "visual": "military illustration; chalk-write GENERAL HARNEY"
+  },
+  {
+    "start": 142,
+    "end": 145,
+    "words": "Their commander was Captain George Pickett.",
+    "id": 51,
+    "label": "CAPTAIN PICKETT",
+    "chapter": 4,
+    "visual": "military illustration; chalk-write CAPTAIN PICKETT"
+  },
+  {
+    "start": 144,
+    "end": 149,
+    "words": "The same Pickett who would later become infamous during the American Civil War.",
+    "id": 52,
+    "label": "BEFORE THE CIVIL WAR",
+    "chapter": 4,
+    "visual": "military illustration; chalk-write BEFORE THE CIVIL WAR"
+  },
+  {
+    "start": 148,
+    "end": 153,
+    "words": "In July, American troops landed and established a military camp.",
+    "id": 53,
+    "label": "JULY: AMERICAN CAMP",
+    "chapter": 4,
+    "visual": "military illustration; chalk-write JULY: AMERICAN CAMP"
+  },
+  {
+    "start": 152,
+    "end": 155,
+    "words": "The British were furious.",
+    "id": 54,
+    "label": "BRITISH ANGER",
+    "chapter": 4,
+    "visual": "military illustration; chalk-write BRITISH ANGER"
+  },
+  {
+    "start": 154,
+    "end": 159,
+    "words": "Governor James Douglas ordered British warships toward the island.",
+    "id": 55,
+    "label": "GOVERNOR DOUGLAS",
+    "chapter": 4,
+    "visual": "military illustration; chalk-write GOVERNOR DOUGLAS"
+  },
+  {
+    "start": 158,
+    "end": 161,
+    "words": "The Americans refused to leave.",
+    "id": 56,
+    "label": "AMERICANS STAY",
+    "chapter": 4,
+    "visual": "military illustration; chalk-write AMERICANS STAY"
+  },
+  {
+    "start": 160,
+    "end": 163,
+    "words": "The British refused to surrender their claim.",
+    "id": 57,
+    "label": "BRITAIN HOLDS ITS CLAIM",
+    "chapter": 4,
+    "visual": "military illustration; chalk-write BRITAIN HOLDS ITS CLAIM"
+  },
+  {
+    "start": 163,
+    "end": 165,
+    "words": "More soldiers arrived.",
+    "id": 58,
+    "label": "MORE SOLDIERS",
+    "chapter": 4,
+    "visual": "military illustration; chalk-write MORE SOLDIERS"
+  },
+  {
+    "start": 164,
+    "end": 166,
+    "words": "More ships appeared.",
+    "id": 59,
+    "label": "MORE SHIPS",
+    "chapter": 4,
+    "visual": "military illustration; chalk-write MORE SHIPS"
+  },
+  {
+    "start": 165,
+    "end": 171,
+    "words": "By the end of August, hundreds of American troops were positioned behind defenses with cannons.",
+    "id": 60,
+    "label": "HUNDREDS + CANNONS",
+    "chapter": 4,
+    "visual": "military illustration; chalk-write HUNDREDS + CANNONS"
+  },
+  {
+    "start": 171,
+    "end": 174,
+    "words": "British naval forces waited offshore.",
+    "id": 61,
+    "label": "BRITISH NAVY",
+    "chapter": 4,
+    "visual": "military illustration; chalk-write BRITISH NAVY"
+  },
+  {
+    "start": 173,
+    "end": 178,
+    "words": "One wrong decision could have turned this little island into a battlefield.",
+    "id": 62,
+    "label": "ONE WRONG DECISION",
+    "chapter": 4,
+    "visual": "military illustration; chalk-write ONE WRONG DECISION"
+  },
+  {
+    "start": 177,
+    "end": 180,
+    "words": "The world almost went to war.",
+    "id": 63,
+    "label": "ALMOST A WAR",
+    "chapter": 4,
+    "visual": "military illustration; chalk-write ALMOST A WAR"
+  },
+  {
+    "start": 180,
+    "end": 182,
+    "words": "But something strange was happening.",
+    "id": 64,
+    "label": "AN UNEXPECTED TWIST",
+    "chapter": 5,
+    "visual": "peace illustration; chalk-write AN UNEXPECTED TWIST"
+  },
+  {
+    "start": 182,
+    "end": 185,
+    "words": "Even as both sides prepared for possible fighting,",
+    "id": 65,
+    "label": "PREPARING TO FIGHT",
+    "chapter": 5,
+    "visual": "peace illustration; chalk-write PREPARING TO FIGHT"
+  },
+  {
+    "start": 184,
+    "end": 187,
+    "words": "officers sometimes visited each other.",
+    "id": 66,
+    "label": "OFFICERS VISIT",
+    "chapter": 5,
+    "visual": "peace illustration; chalk-write OFFICERS VISIT"
+  },
+  {
+    "start": 187,
+    "end": 190,
+    "words": "Some even attended church services together.",
+    "id": 67,
+    "label": "CHURCH TOGETHER",
+    "chapter": 5,
+    "visual": "peace illustration; chalk-write CHURCH TOGETHER"
+  },
+  {
+    "start": 189,
+    "end": 194,
+    "words": "They were behaving like neighbors while preparing to fight like enemies.",
+    "id": 68,
+    "label": "NEIGHBORS + ENEMIES",
+    "chapter": 5,
+    "visual": "peace illustration; chalk-write NEIGHBORS + ENEMIES"
+  },
+  {
+    "start": 193,
+    "end": 198,
+    "words": "Fortunately, British Rear Admiral Lambert Baynes understood the danger.",
+    "id": 69,
+    "label": "ADMIRAL BAYNES",
+    "chapter": 5,
+    "visual": "peace illustration; chalk-write ADMIRAL BAYNES"
+  },
+  {
+    "start": 197,
+    "end": 203,
+    "words": "He refused to turn a dispute over a pig into a war between two nations.",
+    "id": 70,
+    "label": "NO WAR OVER A PIG",
+    "chapter": 5,
+    "visual": "peace illustration; chalk-write NO WAR OVER A PIG"
+  },
+  {
+    "start": 202,
+    "end": 207,
+    "words": "Meanwhile, American President James Buchanan learned what was happening.",
+    "id": 71,
+    "label": "PRESIDENT BUCHANAN",
+    "chapter": 5,
+    "visual": "peace illustration; chalk-write PRESIDENT BUCHANAN"
+  },
+  {
+    "start": 206,
+    "end": 208,
+    "words": "He was alarmed.",
+    "id": 72,
+    "label": "ALARM",
+    "chapter": 5,
+    "visual": "peace illustration; chalk-write ALARM"
+  },
+  {
+    "start": 207,
+    "end": 211,
+    "words": "He sent General Winfield Scott to calm the situation.",
+    "id": 73,
+    "label": "WINFIELD SCOTT",
+    "chapter": 5,
+    "visual": "peace illustration; chalk-write WINFIELD SCOTT"
+  },
+  {
+    "start": 210,
+    "end": 214,
+    "words": "And Scott helped negotiate a compromise.",
+    "id": 74,
+    "label": "A COMPROMISE",
+    "chapter": 5,
+    "visual": "peace illustration; chalk-write A COMPROMISE"
+  },
+  {
+    "start": 213,
+    "end": 216,
+    "words": "Neither country would take complete control.",
+    "id": 75,
+    "label": "NO SOLE CONTROL",
+    "chapter": 5,
+    "visual": "peace illustration; chalk-write NO SOLE CONTROL"
+  },
+  {
+    "start": 215,
+    "end": 220,
+    "words": "Both would remain on the island until the border dispute could be settled peacefully.",
+    "id": 76,
+    "label": "A PEACEFUL SOLUTION",
+    "chapter": 5,
+    "visual": "peace illustration; chalk-write A PEACEFUL SOLUTION"
+  },
+  {
+    "start": 220,
+    "end": 222,
+    "words": "Thirteen years of waiting.",
+    "id": 77,
+    "label": "13 YEARS",
+    "chapter": 6,
+    "visual": "camps illustration; chalk-write 13 YEARS"
+  },
+  {
+    "start": 222,
+    "end": 225,
+    "words": "So, the Americans remained at American Camp.",
+    "id": 78,
+    "label": "AMERICAN CAMP",
+    "chapter": 6,
+    "visual": "camps illustration; chalk-write AMERICAN CAMP"
+  },
+  {
+    "start": 224,
+    "end": 228,
+    "words": "The British established English Camp at the other end of the island.",
+    "id": 79,
+    "label": "ENGLISH CAMP",
+    "chapter": 6,
+    "visual": "camps illustration; chalk-write ENGLISH CAMP"
+  },
+  {
+    "start": 228,
+    "end": 230,
+    "words": "And they waited.",
+    "id": 80,
+    "label": "WAITING",
+    "chapter": 6,
+    "visual": "camps illustration; chalk-write WAITING"
+  },
+  {
+    "start": 229,
+    "end": 232,
+    "words": "Not for days, not for months.",
+    "id": 81,
+    "label": "NOT DAYS OR MONTHS",
+    "chapter": 6,
+    "visual": "camps illustration; chalk-write NOT DAYS OR MONTHS"
+  },
+  {
+    "start": 231,
+    "end": 237,
+    "words": "The joint military occupation continued for twelve more years.",
+    "id": 82,
+    "label": "12 MORE YEARS",
+    "chapter": 6,
+    "visual": "camps illustration; chalk-write 12 MORE YEARS"
+  },
+  {
+    "start": 236,
+    "end": 238,
+    "words": "Think about that.",
+    "id": 83,
+    "label": "THINK ABOUT THAT",
+    "chapter": 6,
+    "visual": "camps illustration; chalk-write THINK ABOUT THAT"
+  },
+  {
+    "start": 237,
+    "end": 239,
+    "words": "The pig was long gone.",
+    "id": 84,
+    "label": "THE PIG IS LONG GONE",
+    "chapter": 6,
+    "visual": "camps illustration; chalk-write THE PIG IS LONG GONE"
+  },
+  {
+    "start": 239,
+    "end": 242,
+    "words": "The original argument had become history.",
+    "id": 85,
+    "label": "THE ARGUMENT IS HISTORY",
+    "chapter": 6,
+    "visual": "camps illustration; chalk-write THE ARGUMENT IS HISTORY"
+  },
+  {
+    "start": 241,
+    "end": 248,
+    "words": "But British and American troops were still occupying the same small island, waiting for someone to decide who owned it.",
+    "id": 86,
+    "label": "STILL SHARING AN ISLAND",
+    "chapter": 6,
+    "visual": "camps illustration; chalk-write STILL SHARING AN ISLAND"
+  },
+  {
+    "start": 248,
+    "end": 255,
+    "words": "Finally, in 1871, both countries agreed to let Germany's Kaiser Wilhelm the First arbitrate the dispute.",
+    "id": 87,
+    "label": "1871: ARBITRATION",
+    "chapter": 7,
+    "visual": "verdict illustration; chalk-write 1871: ARBITRATION"
+  },
+  {
+    "start": 255,
+    "end": 257,
+    "words": "The final decision.",
+    "id": 88,
+    "label": "THE FINAL DECISION",
+    "chapter": 7,
+    "visual": "verdict illustration; chalk-write THE FINAL DECISION"
+  },
+  {
+    "start": 256,
+    "end": 261,
+    "words": "In October 1872, the decision finally arrived.",
+    "id": 89,
+    "label": "OCTOBER 1872",
+    "chapter": 7,
+    "visual": "verdict illustration; chalk-write OCTOBER 1872"
+  },
+  {
+    "start": 260,
+    "end": 264,
+    "words": "The San Juan Islands belonged to America.",
+    "id": 90,
+    "label": "ISLANDS TO AMERICA",
+    "chapter": 7,
+    "visual": "verdict illustration; chalk-write ISLANDS TO AMERICA"
+  },
+  {
+    "start": 263,
+    "end": 265,
+    "words": "British troops withdrew.",
+    "id": 91,
+    "label": "BRITISH WITHDRAWAL",
+    "chapter": 7,
+    "visual": "verdict illustration; chalk-write BRITISH WITHDRAWAL"
+  },
+  {
+    "start": 265,
+    "end": 267,
+    "words": "The crisis was over.",
+    "id": 92,
+    "label": "CRISIS OVER",
+    "chapter": 7,
+    "visual": "verdict illustration; chalk-write CRISIS OVER"
+  },
+  {
+    "start": 266,
+    "end": 271,
+    "words": "Thirteen years after a pig wandered into a potato patch,",
+    "id": 93,
+    "label": "1859 TO 1872",
+    "chapter": 7,
+    "visual": "verdict illustration; chalk-write 1859 TO 1872"
+  },
+  {
+    "start": 270,
+    "end": 274,
+    "words": "two of the world's most powerful nations had finally settled their argument.",
+    "id": 94,
+    "label": "DISPUTE SETTLED",
+    "chapter": 7,
+    "visual": "verdict illustration; chalk-write DISPUTE SETTLED"
+  },
+  {
+    "start": 274,
+    "end": 276,
+    "words": "No battle had taken place.",
+    "id": 95,
+    "label": "NO BATTLE",
+    "chapter": 8,
+    "visual": "end illustration; chalk-write NO BATTLE"
+  },
+  {
+    "start": 276,
+    "end": 279,
+    "words": "Not a single human was killed in the confrontation.",
+    "id": 96,
+    "label": "0 HUMAN DEATHS",
+    "chapter": 8,
+    "visual": "end illustration; chalk-write 0 HUMAN DEATHS"
+  },
+  {
+    "start": 278,
+    "end": 282,
+    "words": "And the only casualty of the entire Pig War?",
+    "id": 97,
+    "label": "THE ONLY CASUALTY?",
+    "chapter": 8,
+    "visual": "end illustration; chalk-write THE ONLY CASUALTY?"
+  },
+  {
+    "start": 281,
+    "end": 283,
+    "words": "The pig.",
+    "id": 98,
+    "label": "ONE PIG",
+    "chapter": 8,
+    "visual": "end illustration; chalk-write ONE PIG"
+  },
+  {
+    "start": 282,
+    "end": 285,
+    "words": "All because it wanted some potatoes.",
+    "id": 99,
+    "label": "SOME POTATOES",
+    "chapter": 8,
+    "visual": "end illustration; chalk-write SOME POTATOES"
+  }
+]
