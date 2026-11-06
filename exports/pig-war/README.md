@@ -1,10 +1,11 @@
 # Pig War — Chalkboard Lesson
 
-[Download the standalone HTML](https://github.com/theunity607-byte/2d-short/raw/refs/heads/video-download/exports/pig-war/pig-war-chalkboard.html) and open it in your browser.
+[Download the finished MP4](https://github.com/theunity607-byte/2d-short/raw/refs/heads/video-download/exports/pig-war/pig-war-chalkboard-1080p30.mp4)
 
-Native 1920×1080 canvas, 30 fps export timeline, 286 seconds, 100 supplied timed beats.
-Play/pause, scrub, looping, synthesized chalk sounds, and Load voiceover / drag-and-drop are included.
-No Pig War audio file was supplied, so no narration is bundled. Load your recording to make audio the playback clock.
-The supplied H and SOUND libraries are embedded unchanged. Both specified handwriting fonts are embedded for offline use.
+[Download the HTML package](https://github.com/theunity607-byte/2d-short/raw/refs/heads/video-download/exports/pig-war/pig-war-html.zip), extract it, and open `pig-war-chalkboard.html` in your browser.
 
-BEATS.json contains the original timing, spoken wording and visual plan. The MP4 export will be added when its full native-resolution rendering is complete.
+The MP4 is native 1920 × 1080, progressive H.264/yuv420p, constant 30 fps, 286 seconds (4:46), 8,580 rendered frames, with 48 kHz audio and fast-start playback. Complete decoding and early/middle/late consecutive-frame checks passed. See `quality.json` for export checks.
+
+No Pig War narration recording was supplied. The MP4 contains chalk sound effects only. The HTML includes Load voiceover / drag-and-drop; loading a recording makes that audio the playback clock. The animation follows the 100 supplied timed narration beats.
+
+The standalone HTML includes play/pause, scrub, loop, sound toggle, native 1920 × 1080 canvas, embedded handwriting fonts, deterministic timestamp seeking, and the supplied H and SOUND libraries unchanged. `BEATS.json` contains the original timings, spoken wording, and visual plan. `storyboard.jpg` shows representative shots.
